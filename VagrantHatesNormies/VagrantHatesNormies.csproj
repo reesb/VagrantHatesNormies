@@ -6,12 +6,12 @@
 
   <ItemGroup>
     <None Remove="REEE.bnk" />
-    <None Remove="REEE.txt" />
+    <None Remove="REEE2.bnk" />
+    <None Remove="REEE2.txt" />
   </ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Include="REEE.bnk" />
-    <EmbeddedResource Include="REEE.txt" />
   </ItemGroup>
 
   <ItemGroup>
