@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2769586434	PlayREEE			\Default Work Unit\PlayREEE	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	194777303	normies	C:\Users\Rees\Documents\WwiseProjects\VagrantHatesNormies\.cache\Windows\SFX\normies_A1793BE9.wem		\Actor-Mixer Hierarchy\Default Work Unit\normies		52414
+
